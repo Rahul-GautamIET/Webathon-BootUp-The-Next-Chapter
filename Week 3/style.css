@@ -1,0 +1,30 @@
+body{
+    background-color: #8ed4f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    background-color: black;
+    padding: 30px;
+    border-radius: 150px;
+    margin-top: 50px;
+}
+.light{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(65,65,65);
+    border-radius: 50%;
+    margin: 30px;
+}
+.red:hover{
+    background-color: red;
+    
+}
+.yellow:hover{
+    background-color: yellow;
+    
+}
+.green:hover{
+    background-color: green;
+}
